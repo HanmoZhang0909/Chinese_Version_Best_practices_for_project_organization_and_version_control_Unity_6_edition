@@ -1,4 +1,4 @@
-#中文版Best practices for project organization and version control (Unity 6 edition)
+# 中文版Best practices for project organization and version control (Unity 6 edition)
 
 ## 📘 PDFMathTranslate 使用说明 / PDFMathTranslate Usage
 
