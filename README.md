@@ -1,3 +1,5 @@
+#中文版Best practices for project organization and version control (Unity 6 edition)
+
 ## 📘 PDFMathTranslate 使用说明 / PDFMathTranslate Usage
 
 本项目使用 [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 工具对 PDF 文件中的内容进行了翻译。
